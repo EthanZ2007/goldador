@@ -12,12 +12,12 @@
       "SamEthanMathew"
     ],
     "non_admins": [
-      "rarangil",
-      "a-varigonda",
-      "tejaschaudhari131",
-      "bmood25",
       "csongfm",
-      "cheezypegasus"
+      "a-varigonda",
+      "cheezypegasus",
+      "rarangil",
+      "bmood25",
+      "tejaschaudhari131"
     ]
   },
   "andrew_ids": {
@@ -33,12 +33,12 @@
       "semathew"
     ],
     "non_admins": [
-      "rarangil",
-      "avarigon",
-      "tchaudha",
-      "bmood",
       "cesong",
-      "charlie3"
+      "avarigon",
+      "charlie3",
+      "rarangil",
+      "bmood",
+      "tchaudha"
     ]
   },
   "teams": {
@@ -198,7 +198,7 @@
         ]
       },
       "repos": [
-        "meet"
+        "Meet"
       ],
       "create_oidc_clients": true,
       "website": "meet.scottylabs.org",
