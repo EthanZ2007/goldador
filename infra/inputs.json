@@ -1,46 +1,46 @@
 {
   "github_usernames": {
     "admins": [
+      "Hef50",
+      "SamEthanMathew",
       "Yuxiang-Huang",
+      "alanpham06",
+      "christinamli",
       "dsnarne",
       "hanabenko",
-      "alanpham06",
-      "laasyaaki",
       "jagong-cmu",
-      "christinamli",
-      "Hef50",
-      "SamEthanMathew"
+      "laasyaaki"
     ],
     "non_admins": [
-      "graceguo16",
-      "bmood25",
-      "tejaschaudhari131",
       "a-varigonda",
-      "rarangil",
+      "bmood25",
+      "cheezypegasus",
       "csongfm",
-      "cheezypegasus"
+      "graceguo16",
+      "rarangil",
+      "tejaschaudhari131"
     ]
   },
   "andrew_ids": {
     "admins": [
-      "yh4",
-      "dnarne",
-      "hbenko",
       "alanp",
-      "laki",
-      "jagong",
       "cmli2",
+      "dnarne",
       "hareshmu",
-      "semathew"
+      "hbenko",
+      "jagong",
+      "laki",
+      "semathew",
+      "yh4"
     ],
     "non_admins": [
-      "yumengg2",
-      "bmood",
-      "tchaudha",
       "avarigon",
-      "rarangil",
+      "bmood",
       "cesong",
-      "charlie3"
+      "charlie3",
+      "rarangil",
+      "tchaudha",
+      "yumengg2"
     ]
   },
   "teams": {
@@ -97,38 +97,38 @@
       "description": "Internal recruitment review platform for ScottyLabs leadership. Human review workflow over committee applications - no AI applicant evaluation.",
       "members": {
         "github_usernames": [
-          "Yuxiang-Huang",
-          "hanabenko",
-          "dsnarne",
-          "alanpham06",
-          "laasyaaki",
-          "jagong-cmu",
-          "christinamli",
           "Hef50",
-          "SamEthanMathew"
+          "SamEthanMathew",
+          "Yuxiang-Huang",
+          "alanpham06",
+          "christinamli",
+          "dsnarne",
+          "hanabenko",
+          "jagong-cmu",
+          "laasyaaki"
         ],
         "andrew_ids": [
-          "yh4",
-          "hbenko",
-          "dnarne",
           "alanp",
-          "laki",
-          "jagong",
           "cmli2",
+          "dnarne",
           "hareshmu",
-          "semathew"
+          "hbenko",
+          "jagong",
+          "laki",
+          "semathew",
+          "yh4"
         ]
       },
       "admins": {
         "github_usernames": [
+          "SamEthanMathew",
           "Yuxiang-Huang",
-          "hanabenko",
-          "SamEthanMathew"
+          "hanabenko"
         ],
         "andrew_ids": [
-          "yh4",
           "hbenko",
-          "semathew"
+          "semathew",
+          "yh4"
         ]
       },
       "repos": [
@@ -143,26 +143,26 @@
       "description": "The Labrador leadership team.",
       "members": {
         "github_usernames": [
+          "Hef50",
+          "SamEthanMathew",
           "Yuxiang-Huang",
+          "alanpham06",
+          "christinamli",
           "dsnarne",
           "hanabenko",
-          "alanpham06",
-          "laasyaaki",
           "jagong-cmu",
-          "christinamli",
-          "Hef50",
-          "SamEthanMathew"
+          "laasyaaki"
         ],
         "andrew_ids": [
-          "yh4",
-          "dnarne",
-          "hbenko",
           "alanp",
-          "laki",
-          "jagong",
           "cmli2",
+          "dnarne",
           "hareshmu",
-          "semathew"
+          "hbenko",
+          "jagong",
+          "laki",
+          "semathew",
+          "yh4"
         ]
       },
       "admins": {
@@ -171,8 +171,8 @@
           "hanabenko"
         ],
         "andrew_ids": [
-          "yh4",
-          "hbenko"
+          "hbenko",
+          "yh4"
         ]
       },
       "repos": [
@@ -302,18 +302,18 @@
       "members": {
         "github_usernames": [],
         "andrew_ids": [
-          "yingyiw",
+          "mbatkhuu",
           "nayonk",
           "rushabhj",
-          "mbatkhuu"
+          "yingyiw"
         ]
       },
       "admins": {
         "github_usernames": [],
         "andrew_ids": [
-          "yingyiw",
           "nayonk",
-          "rushabhj"
+          "rushabhj",
+          "yingyiw"
         ]
       },
       "repos": [],
