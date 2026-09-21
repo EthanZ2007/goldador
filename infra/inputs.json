@@ -33,6 +33,7 @@
       "noe2971",
       "rarangil",
       "rayank7674",
+      "rohansp007",
       "s520y",
       "sagelu1",
       "samad2084",
@@ -74,6 +75,7 @@
       "ndishon",
       "rarangil",
       "rkha",
+      "rparthip",
       "sabellah",
       "sagelu",
       "samad",
@@ -91,10 +93,12 @@
       "description": "Web extension to push an automatic, customizable, summary of emails and Canvas, Ed, Piazza and other softwares' posts, creating a daily/weekly to-do list.\n",
       "members": {
         "github_usernames": [
-          "a-varigonda"
+          "a-varigonda",
+          "rohansp007"
         ],
         "andrew_ids": [
-          "avarigon"
+          "avarigon",
+          "rparthip"
         ]
       },
       "admins": {
