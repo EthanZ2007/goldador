@@ -9,6 +9,8 @@ teams @Hef50 @SamEthanMathew @Yuxiang-Huang @alanpham06 @christinamli @dsnarne @
 
 # The codeowners of each team file are their corresponding leads
 
+teams/CMU-ScottyTasks.toml @dishon949
+
 teams/andrew-inbox.toml @a-varigonda
 
 teams/goldador.toml @Yuxiang-Huang
